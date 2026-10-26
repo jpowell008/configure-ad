@@ -41,7 +41,8 @@ Create a basic Azure lab by setting up a Resource Group, Virtual Network, and Wi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a second virtual machine named Client-1 in the same Azure region and virtual network as DC-1. Configure the virtual network's DNS settings to use DC-1's private IP address. Restart Client-1 from the Azure Portal and log into the virtual machine. Then ping DC-1's private IP address to test the network connection and make sure the ping was successful.&#x20;
+
 </p>
 <br />
 
@@ -49,6 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install Active Directory Domain Services (AD DS) on DC-1 and create a new forest. After setting up the domain, restart the server and log back in using the domain administrator account.&#x20;
+
 </p>
 <br />
