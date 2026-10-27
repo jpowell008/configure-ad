@@ -15,7 +15,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11 Pro, 25H2
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
@@ -27,8 +27,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="1700" height="1021" alt="Screenshot 2026-10-26 214011" src="https://github.com/user-attachments/assets/8f2e1dc3-4123-4caf-9c2d-263bb44e3641" />
+<img width="1917" height="1110" alt="Screenshot 2026-10-26 204440" src="https://github.com/user-attachments/assets/02f50881-905c-4a29-9863-bb4f8753f75f" />
+<img width="1413" height="1116" alt="Screenshot 2026-10-26 205041" src="https://github.com/user-attachments/assets/f98668b8-c778-480b-848f-9001afabd391" />
+
+
 </p>
 <p>
 ## Azure Windows Server Lab – DC-1
@@ -37,7 +40,8 @@ Create a basic Azure lab by setting up a Resource Group, Virtual Network, and Wi
 </p>
 <br />
 
-<p>
+<p><img width="1386" height="1107" alt="Screenshot 2026-10-26 211303" src="https://github.com/user-attachments/assets/f09d90cb-db6c-4be7-9256-5c236fd73d02" />
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
