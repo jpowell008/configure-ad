@@ -54,3 +54,4 @@ Install Active Directory Domain Services (AD DS) on DC-1 and create a new forest
 
 </p>
 <br />
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
