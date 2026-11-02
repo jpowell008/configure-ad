@@ -45,7 +45,6 @@ Create a basic Azure lab by setting up a Resource Group, Virtual Network, and Wi
 <p><img width="1386" height="1107" alt="Screenshot 2026-10-26 211303" src="https://github.com/user-attachments/assets/f09d90cb-db6c-4be7-9256-5c236fd73d02" /><img width="1528" height="804" alt="image" src="https://github.com/user-attachments/assets/d28d6abd-979a-4d9a-80b9-38934245554f" />
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a second virtual machine named Client-1 in the same Azure region and virtual network as DC-1. Configure the virtual network's DNS settings to use DC-1's private IP address. Restart Client-1 from the Azure Portal and log into the virtual machine. Then ping DC-1's private IP address to test the network connection and make sure the ping was successful.&#x20;
