@@ -59,7 +59,8 @@ Create a second virtual machine named Client-1 in the same Azure region and virt
 <p>
 Install Active Directory Domain Services (AD DS) on DC-1 and create a new forest. After setting up the domain, restart the server and log back in using the domain administrator account.&#x20;
 
-</p>
+</p><img width="962" height="807" alt="Screenshot 2026-11-02 141938" src="https://github.com/user-attachments/assets/68114e14-ec4d-4aeb-98ad-6912e52fd8c9" />
+
 <br />
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Set up Remote Desktop for non-administrative users on Client-1
