@@ -63,3 +63,7 @@ Install Active Directory Domain Services (AD DS) on DC-1 and create a new forest
 <br />
 
 Set up Remote Desktop for non-administrative users on Client-1
+<img width="998" height="702" alt="image" src="https://github.com/user-attachments/assets/39597526-ab11-4b66-ad76-21146e92ec81" />
+
+
+Create Users Accounts
