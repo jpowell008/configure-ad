@@ -54,7 +54,6 @@ Create a second virtual machine named Client-1 in the same Azure region and virt
 
 <p><img width="1148" height="577" alt="Screenshot 2026-11-02 130437" src="https://github.com/user-attachments/assets/fb420f97-b908-4b25-813b-e06234a5bf52" />
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install Active Directory Domain Services (AD DS) on DC-1 and create a new forest. After setting up the domain, restart the server and log back in using the domain administrator account.&#x20;
